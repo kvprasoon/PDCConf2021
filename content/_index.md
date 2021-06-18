@@ -133,6 +133,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... --> 
 
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-## Partners
+{{% partners categories="startup" %}}
+
+## Sponsors
 {{% /partners %}}
