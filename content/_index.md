@@ -129,7 +129,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
     {{% icon "right" %}}
 </a> -->
 
-{{% /album  %}} -->
+{{% /album  %}}
 
 <!-- ... --> 
 
