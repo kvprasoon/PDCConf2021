@@ -9,7 +9,7 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" %}}
+{{% jumbo img="./images/backgrounds/back-0.jpg" imgLabel="PDC Conf 2021" %}}
 
 ## PowerShell DevOps and Cloud Conference 2021
 
@@ -25,7 +25,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Virtual:Type,Days:3,Sessions:24,Parallel Tracks:3" class="primary" %}}
+{{% home-info what=":Online,Days:3,Sessions:24,Parallel Tracks:3" class="primary" %}}
 ## What is PDC Conference ?
 
 PDC Conference is PowerShell DevOps and Cloud conference which was previously known as PowerShell Conference Asia.
@@ -37,30 +37,30 @@ PDC Conference is PowerShell DevOps and Cloud conference which was previously kn
 <!-- ... -->
 
 
-
-{{% home-speakers %}}
+<!-- TODO Feature speakers to be added when accepted -->
+<!-- {{% home-speakers %}}
 ## Featured Speakers
 
 <!--
 {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
---> 
+
 
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 
-{{% /home-speakers %}}
+{{% /home-speakers %}} -->
 
 
 <!-- ... -->
 
-{{% home-subscribe  class="primary" %}}
+<!-- {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
-{{% /home-subscribe %}}
+{{% /home-subscribe %}} -->
 
 <!-- ... -->
 
@@ -101,7 +101,7 @@ PDC Conference is PowerShell DevOps and Cloud conference which was previously kn
 
 <!-- ... -->
 
-<!-- {{% home-location
+<!--{{% home-location
     image="/images/map.jpg"
     address="11 Espl. Compans Caffarelli, 31000 Toulouse"
     latitude="43.6110956"
@@ -115,11 +115,11 @@ The Centre de Congrès Pierre Baudis is a modern place of exchange,
 located on a privileged location,
 in the immediate vicinity of the centre of Toulouse and in a green environment.
 
-{{% /home-location %}}
+{{% /home-location %}} -->
 
 <!-- ... -->
 
-{{% album images="/images/album/2019/PSConf2019-9.jpg,/images/album/2019/PSConf2019-4.jpg,/images/album/2019/PSConf2019-6.jpg,/images/album/2019/PSConf2019-12.jpg,/images/album/2019/PSConf2019-5.jpg,/images/album/2019/PSConf2019-11.jpg,/images/album/2019/PSConf2019-16.jpg,/images/album/2019/PSConf2019-8.jpg,/images/album/2019/PSConf2019-15.jpg,/images/album/2019/PSConf2019-2.jpg" %}}
+{{% album images="./images/album/2019/PSConf2019-9.jpg,./images/album/2019/PSConf2019-4.jpg,./images/album/2019/PSConf2019-6.jpg,./images/album/2019/PSConf2019-12.jpg,./images/album/2019/PSConf2019-5.jpg,./images/album/2019/PSConf2019-11.jpg,./images/album/2019/PSConf2019-16.jpg,./images/album/2019/PSConf2019-8.jpg,./images/album/2019/PSConf2019-15.jpg,./images/album/2019/PSConf2019-2.jpg" %}}
 
 <!-- To share photos in shared drive
 ### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
