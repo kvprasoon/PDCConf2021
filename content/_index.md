@@ -26,9 +26,11 @@ menu:
 
 
 {{% home-info what=":Online,Days:3,Sessions:24,Parallel Tracks:3" class="primary" %}}
-## What is PDC Conference ?
+## #PDCConf2021
 
-PDC Conference is PowerShell DevOps and Cloud conference which was previously known as PowerShell Conference Asia.
+The biggest PowerShell Conference in Asia has adopted a new dimension and formats to bring expert sessions on DevOps and Cloud.
+
+Come along, share your knowledge and learn something new.
 
 {{% /home-info %}}
 
