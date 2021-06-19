@@ -119,7 +119,7 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 <!-- ... -->
 
-{{% album images="/images/album/2019/PSConf2019-1.jpg,/images/album/2019/PSConf2019-2.jpg,/images/album/2019/PSConf2019-6.jpg,/images/album/2019/PSConf2019-4.jpg,/images/album/2019/PSConf2019-5.jpg,/images/album/2019/PSConf2019-3.jpg,/images/album/2019/PSConf2019-7.jpg,/images/album/2019/PSConf2019-8.jpg,/images/album/2019/PSConf2019-9.jpg,/images/album/2019/PSConf2019-11.jpg" %}}
+{{% album images="/images/album/2019/PSConf2019-9.jpg,/images/album/2019/PSConf2019-2.jpg,/images/album/2019/PSConf2019-6.jpg,/images/album/2019/PSConf2019-12.jpg,/images/album/2019/PSConf2019-5.jpg,/images/album/2019/PSConf2019-4.jpg,/images/album/2019/PSConf2019-16.jpg,/images/album/2019/PSConf2019-8.jpg,/images/album/2019/PSConf2019-15.jpg,/images/album/2019/PSConf2019-11.jpg" %}}
 
 <!-- To share photos in shared drive
 ### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
