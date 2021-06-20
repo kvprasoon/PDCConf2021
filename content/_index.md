@@ -13,6 +13,7 @@ menu:
 
 ## PowerShell DevOps and Cloud Conference 2021
 
+Coming soon....
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/file/d/1td_9Cr1b2JZvv0bCpOCJNDsEWgVgEp2Y/view?usp=sharing" target="_blank">Become a sponsor</a> -->
 
